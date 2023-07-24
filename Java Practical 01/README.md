@@ -1,1 +1,1 @@
-Practical 01
+PRACTICAL 01
